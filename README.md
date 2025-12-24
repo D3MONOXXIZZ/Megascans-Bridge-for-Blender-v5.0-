@@ -1,0 +1,1 @@
+just go to C:\Users\(YOUR USERNAME)\AppData\Roaming\Blender Foundation\Blender\5.0\scripts\startup\MSPlugin and replace the init file with the one provided. Hop in Blender and use the Bridge app to export all the assests as usual :)
